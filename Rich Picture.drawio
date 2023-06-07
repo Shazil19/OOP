@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T07:23:59.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JjoX7NGNYOwULBxn0Vbu" version="21.3.7" type="device">
+  <diagram name="Side-1" id="rSGLXBdkbXvyK8kPbQNF">
+    <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-5" value="After you have selected a hero&lt;br&gt;program will randomly generate&lt;br&gt;player fight table" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-1" target="tzxUOaOpZxnDYTuDCqD5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-1" value="Select your hero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-3" value="The program will ask &lt;br&gt;you to select a hero&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-2" target="tzxUOaOpZxnDYTuDCqD5-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-2" value="Start Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-7" value="Here is the main program&lt;br&gt;AKA Main fight" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-4" target="tzxUOaOpZxnDYTuDCqD5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-4" value="Fight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-9" value="end of the fight" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-6" target="tzxUOaOpZxnDYTuDCqD5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-6" value="Attack/defence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-8" target="tzxUOaOpZxnDYTuDCqD5-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-8" target="tzxUOaOpZxnDYTuDCqD5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-8" value="did you win" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-10" target="tzxUOaOpZxnDYTuDCqD5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-16" value="&quot; Sorry to hear&lt;br&gt;that, but we &lt;br&gt;wish you a&lt;br&gt;very goodluck&lt;br&gt;for the next time&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tzxUOaOpZxnDYTuDCqD5-15">
+          <mxGeometry x="-0.13" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-10" value="No" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-12" target="tzxUOaOpZxnDYTuDCqD5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-21" value="This variable will&lt;br&gt;remember how&lt;br&gt;many fight you&amp;nbsp;&lt;br&gt;have fought" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tzxUOaOpZxnDYTuDCqD5-20">
+          <mxGeometry x="0.1357" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-26" value="After you have won all the fight&#39;s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-12" target="tzxUOaOpZxnDYTuDCqD5-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-12" value="Yes" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-14" target="tzxUOaOpZxnDYTuDCqD5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-14" value="Console WriteLine" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-17" value="End Program" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-19" target="tzxUOaOpZxnDYTuDCqD5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-19" value="Fight played" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tzxUOaOpZxnDYTuDCqD5-23" target="tzxUOaOpZxnDYTuDCqD5-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-30" value="Believe me You have played really well" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tzxUOaOpZxnDYTuDCqD5-29">
+          <mxGeometry x="-0.1869" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-23" value="Console WriteLine" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tzxUOaOpZxnDYTuDCqD5-31" value="End Program" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

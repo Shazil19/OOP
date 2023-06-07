@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\bin\Debug\Fight Arena.exe.config
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\bin\Debug\Fight Arena.exe
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\bin\Debug\Fight Arena.pdb
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\obj\Debug\Fight Arena.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\obj\Debug\Fight Arena.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\obj\Debug\Fight Arena.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\obj\Debug\Fight Arena.exe
+C:\Users\Shaz0184\Desktop\H1 OOP Eksame\Fight Arena\Fight Arena\obj\Debug\Fight Arena.pdb

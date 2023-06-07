@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T08:01:13.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E764kvFMxeJe2Cae-qNO" version="21.3.7" type="device">
+  <diagram name="Side-1" id="hihImAmu4iQvQeUQbkVu">
+    <mxGraphModel dx="989" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-1" value="Akk class jo in saab ki information rake gi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Kong Fu Harry&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;fight with chopstiks&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;- hitpoints (120)&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- attack of (2)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- defence of (5)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-3" value="&lt;div style=&quot;&quot;&gt;Super Dog Dino&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Random&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- attack (6 - 8)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- hitpoint (70)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (2-8)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-4" value="&lt;div style=&quot;&quot;&gt;Fast Karl&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- hitpoints (90)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- uppercut attack (5)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- normal attack (2)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-5" value="&lt;div style=&quot;&quot;&gt;Poison gunner&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- attack (1 -13)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (5)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-6" value="&lt;div style=&quot;&quot;&gt;Mini Mouse Mikkle&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- hitpoint (40)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- attack (9)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (9)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-7" value="&lt;div style=&quot;&quot;&gt;Cat tigger&lt;/div&gt;&lt;div style=&quot;&quot;&gt;9 lifes&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;each life add +3 to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- hitpoints (35)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- attack (3-6)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-8" value="&lt;div style=&quot;&quot;&gt;Ivan the rubber goat&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- attack (6)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (8)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- hitpoint (70)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3fWrOuRNHGa0iV8XgnRT-10" value="&lt;div style=&quot;&quot;&gt;Elk ego&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- hitpoint (90)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- attack (5-11)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;- defence (4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -187,9 +187,6 @@ public class ElkEgon : Hero
         return Defense;
     }
 }
-
-// Implement other hero classes similarly
-
 public class FightArena
 {
     private static List<Hero> heroes;
@@ -215,7 +212,6 @@ public class FightArena
             new MiniMouseMikkle(),
             new IvanTheRubberGoat(),
             new ElkEgon()
-            // Add other hero instances here
         };
     }
 
